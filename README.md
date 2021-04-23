@@ -40,22 +40,22 @@
   💻 My knowledge areas<br/><br/>
   <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white"></img>
   <img src="https://img.shields.io/badge/groovy-%234298b8.svg?&style=for-the-badge&logo=apache-groovy&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/springboot%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/shell_script%20-%234EAA25.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/shell_script-%234EAA25.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"></img>
   <img src="https://img.shields.io/badge/json%20web%20tokens-%23000000.svg?&style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white"></img>
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"></img>
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"></img>
-  <img src="https://img.shields.io/badge/typescript%20-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"></img>
+  <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"></img>
   <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?&style=for-the-badge&logo=Webpack&logoColor=black"></img>
   <img src="https://img.shields.io/badge/babel-%23F9DC3E.svg?&style=for-the-badge&logo=Babel&logoColor=black"></img>
-  <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"></img>
-  <img src="https://img.shields.io/badge/vuejs%20-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></img>  
-  <img src="https://img.shields.io/badge/bootstrap%20-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"></img>
+  <img src="https://img.shields.io/badge/vuejs-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></img>  
+  <img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"></img>
   <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"></img>
   <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"></img>
   <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"></img>
