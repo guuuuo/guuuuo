@@ -39,7 +39,7 @@
 <p align='center'>
   💻 My knowledge areas<br/><br/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/groovy-%234298b8.svg?&style=for-the-badge&logo=apachegroovy&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/groovy-%234298b8.svg?&style=for-the-badge&logo=apache-groovy&logoColor=white"></img>
   <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"></img>
   <img src="https://img.shields.io/badge/springboot%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"></img>
   <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"></img>
