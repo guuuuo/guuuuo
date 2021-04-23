@@ -44,12 +44,12 @@
   <img src="https://img.shields.io/badge/springboot%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"></img>
   <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"></img>
   <img src="https://img.shields.io/badge/json%20web%20tokens-%23000000.svg?&style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/mysql-%24479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"></img>
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"></img>
   <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"></img>
   <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"></img>
   <img src="https://img.shields.io/badge/typescript%20-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?&style=for-the-badge&logo=Webpack&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?&style=for-the-badge&logo=Webpack&logoColor=black"></img>
   <img src="https://img.shields.io/badge/babel-%23F9DC3E.svg?&style=for-the-badge&logo=Babel&logoColor=black"></img>
   <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"></img>
   <img src="https://img.shields.io/badge/vuejs%20-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white"></img>
