@@ -31,14 +31,14 @@
 <p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/apple-macbook%20pro%202017-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/DELL-P2721Q-%23007db8.svg?&style=for-the-badge&logo=dell&logoColor=white" />
-  <img src="https://img.shields.io/badge/logitech-Anywhere 2-%2300EAD0.svg?&style=for-the-badge&logo=logitech&logoColor=white" />
+  <img src="https://img.shields.io/badge/DELL-P2721Q-%23007DB8.svg?&style=for-the-badge&logo=dell&logoColor=white" />
+  <img src="https://img.shields.io/badge/logitech-Anywhere 2-%2300B8FC.svg?&style=for-the-badge&logo=logitech&logoColor=white" />
   <img src="https://img.shields.io/badge/ganss-GS87D-%2300CCFF.svg?&style=for-the-badge&logoColor=white" />
 </p>
 
 <p align='center'>
   💻 My knowledge areas<br/><br/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white"></img>
   <img src="https://img.shields.io/badge/groovy-%234298b8.svg?&style=for-the-badge&logo=apache-groovy&logoColor=white"></img>
   <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"></img>
   <img src="https://img.shields.io/badge/springboot%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"></img>
@@ -61,8 +61,8 @@
   <img src="https://img.shields.io/badge/docker-%230073ec.svg?&style=for-the-badge&logo=Docker&logoColor=white"></img>
   <img src="https://img.shields.io/badge/kubernetes-%233371e3.svg?&style=for-the-badge&logo=Kubernetes&logoColor=white"></img>  
   <img src="https://img.shields.io/badge/jenkins-%23d24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"></img>  
-  <img src="https://img.shields.io/badge/spinnaker-%23139bb4.svg?&style=for-the-badge&logo=Spinnaker&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/Amazon%20AWS-%23262F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"></img>
+  <img src="https://img.shields.io/badge/spinnaker-%23139BB4.svg?&style=for-the-badge&logo=Spinnaker&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"></img>
   <img src="https://img.shields.io/badge/vs%20code-%23007ACC.svg?&style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"></img>
   <img src="https://img.shields.io/badge/intellij%20IDEA-%2327282c.svg?&style=for-the-badge&logo=Intellij-IDEA&logoColor=white"></img>
 </p>
