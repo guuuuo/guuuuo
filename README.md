@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/apple-macbook%20pro%202017-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white"></img>
   <img src="https://img.shields.io/badge/DELL-P2721Q-%23007DB8.svg?&style=for-the-badge&logo=dell&logoColor=white" />
   <img src="https://img.shields.io/badge/logitech-Anywhere 2-%2300B8FC.svg?&style=for-the-badge&logo=logitech&logoColor=white" />
-  <img src="https://img.shields.io/badge/ganss-GS87D-%2300CCFF.svg?&style=for-the-badge&logo=ripple&logoColor=white" />
+  <img src="https://img.shields.io/badge/ganss-GS87D-%2300CCFF.svg?&style=for-the-badge&logo=roots-sage&logoColor=white" />
 </p>
 
 <p align='center'>
