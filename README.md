@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/groovy-%234298b8.svg?&style=for-the-badge&logo=apache-groovy&logoColor=white"></img>
   <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"></img>
   <img src="https://img.shields.io/badge/springboot%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/shell_script%20-%234EAA25.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"></img>
   <img src="https://img.shields.io/badge/json%20web%20tokens-%23000000.svg?&style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white"></img>
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"></img>
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"></img>
