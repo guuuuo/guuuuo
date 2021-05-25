@@ -79,5 +79,5 @@
   📫 How to reach me: <a href='mailto:niko.guo@icloud.com'>niko.guo@icloud.com</a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/guuuuo/alexandresanlim"></a> hipsters and nerds have come here o/
+  <a href="#"><img src="https://badges.pufler.dev/visits/guuuuo/alexandresanlim"></a>
 </p>
