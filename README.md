@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  A Java developer from Xiamen, China.
+  A Java developer from Santa Clara, California.
 </p>
 
 
