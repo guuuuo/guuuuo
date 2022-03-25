@@ -76,5 +76,5 @@
 </details>-->
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:niko.guo@icloud.com'>niko.guo@icloud.com</a>
+  📫 How to reach me: <a href='mailto:imng@amoylabs.com'>imng@amoylabs.com</a>
 </p>
