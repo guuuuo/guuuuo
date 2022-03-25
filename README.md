@@ -62,6 +62,7 @@
   <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?&style=for-the-badge&logo=Kubernetes&logoColor=white"></img>  
   <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"></img>  
   <img src="https://img.shields.io/badge/spinnaker-%23139BB4.svg?&style=for-the-badge&logo=Spinnaker&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/argocd-%23ef7b4d.svg?&style=for-the-badge&logo=ArgoCD&logoColor=white"></img>
   <img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"></img>
   <img src="https://img.shields.io/badge/vs%20code-%23007ACC.svg?&style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"></img>
   <img src="https://img.shields.io/badge/intellij%20IDEA-%2327282c.svg?&style=for-the-badge&logo=Intellij-IDEA&logoColor=white"></img>
